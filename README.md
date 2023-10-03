@@ -1,7 +1,5 @@
 # **Codility**
 
----
-
 <table>
     <tr>
         <td colspan="3"><h3>Lesson 1 - Iterations</h3></td>
@@ -11,10 +9,6 @@
         <td><a href=".NET/01_Iterations/BinaryGap.md">Problem Statement</a></td>
         <td><a href=".NET/01_Iterations/BinaryGap.cs">Solution</a></td>
     </tr>
-
----
-
-<table>
     <tr>
         <td colspan="3"><h3>Lesson 2 - Arrays</h3></td>
     </tr>
@@ -28,11 +22,6 @@
         <td><a href=".NET/02_Arrays/CyclicRotation.md">Problem Statement</a></td>
         <td><a href=".NET/02_Arrays/CyclicRotation.cs">Solution</a></td>
     </tr>
-</table>
-
----
-
-<table>
     <tr>
         <td colspan="3"><h3>Lesson 3 - Time Complexity</h3></td>
     </tr>
@@ -51,11 +40,6 @@
         <td><a href=".NET/03_Time Complexity/TapeEquilibrium.md">Problem Statement</a></td>
         <td><a href=".NET/03_Time Complexity/TapeEquilibrium.cs">Solution</a></td>
     </tr>
-</table>
-
----
-
-<table>
     <tr>
         <td colspan="3"><h3>Lesson 4 - Counting Elements</h3></td>
     </tr>
@@ -79,11 +63,6 @@
         <td><a href=".NET/04_Counting Elements/MaxCounters.md">Problem Statement</a></td>
         <td><a href=".NET/04_Counting Elements/MaxCounters.cs">Solution</a></td>
     </tr>
-</table>
-
----
-
-<table>
     <tr>
         <td colspan="3"><h3>Lesson 5 - Prefix Sums</h3></td>
     </tr>
@@ -107,11 +86,6 @@
         <td><a href=".NET/05_Prefix Sums/GenomicRangeQuery.md">Problem Statement</a></td>
         <td><a href=".NET/05_Prefix Sums/GenomicRangeQuery.cs">Solution</a></td>
     </tr>
-</table>
-
----
-
-<table>
     <tr>
         <td colspan="3"><h3>Lesson 6 - Sorting</h3></td>
     </tr>
@@ -135,11 +109,6 @@
         <td><a href=".NET/06_Sorting/NumberOfDiscIntersections.md">Problem Statement</a></td>
         <td><a href=".NET/06_Sorting/NumberOfDiscIntersections.cs">Solution</a></td>
     </tr>
-</table>
-
----
-
-<table>
     <tr>
         <td colspan="3"><h3>Lesson 7 - Stacks and Queues</h3></td>
     </tr>
@@ -163,11 +132,6 @@
         <td><a href=".NET/07_Stacks and Queues/Nesting.md">Problem Statement</a></td>
         <td><a href=".NET/07_Stacks and Queues/Nesting.cs">Solution</a></td>
     </tr>
-</table>
-
----
-
-<table>
      <tr>
         <td colspan="3"><h3>Lesson 8 - Leader</h3></td>
     </tr>
@@ -181,11 +145,6 @@
         <td><a href=".NET/08_Leader/Dominator.md">Problem Statement</a></td>
         <td><a href=".NET/08_Leader/Dominator.cs">Solution</a></td>
     </tr>
-</table>
-
----
-
-<table>
     <tr>
         <td colspan="3"><h3>Lesson 9 - Maximum Slice Problem</h3></td>
     </tr>
@@ -204,11 +163,6 @@
         <td><a href=".NET/09_Maximum Slice Problem/MaxDoubleSliceSum.md">Problem Statement</a></td>
         <td><a href=".NET/09_Maximum Slice Problem/MaxDoubleSliceSum.cs">Solution</a></td>
     </tr>
-</table>
-
----
-
-<table>
     <tr>
         <td colspan="3"><h3>Lesson 10 - Prime and composite numbers</h3></td>
     </tr>
@@ -222,11 +176,6 @@
         <td><a href=".NET/10_Prime and Composite Numbers/CountFactors.md">Problem Statement</a></td>
         <td><a href=".NET/10_Prime and Composite Numbers/CountFactors.cs">Solution</a></td>
     </tr>
-</table>
-
----
-
-<table>
     <tr>
         <td colspan="3"><h3>Lesson 11 - Sieve of Eratosthenes</h3></td>
     </tr>
@@ -235,29 +184,19 @@
         <td><a href=".NET/11_Sieve of Eratosthenes/CountSemiprimes.md">Problem Statement</a></td>
         <td><a href=".NET/11_Sieve of Eratosthenes/CountSemiprimes.cs">Solution</a></td>
     </tr>
-</table>
-
----
-
-<table>
     <tr>
         <td colspan="3"><h3>Lesson 12 - Euclidean algorithm</h3></td>
     </tr>
     <tr>
         <td>ChocolatesByNumbers</td>
-        <td><a href=".NET/12_Euclidean algorithm/ChocolatesByNumbers.md">Problem Statement</a></td>
-        <td><a href=".NET/12_Euclidean algorithm/ChocolatesByNumbers.cs">Solution</a></td>
+        <td><a href=".NET/12_Euclidean Algorithm/ChocolatesByNumbers.md">Problem Statement</a></td>
+        <td><a href=".NET/12_Euclidean Algorithm/ChocolatesByNumbers.cs">Solution</a></td>
     </tr>
     <tr>
         <td>CommonPrimeDivisors</td>
-        <td><a href=".NET/12_Euclidean algorithm/CommonPrimeDivisors.md">Problem Statement</a></td>
-        <td><a href=".NET/12_Euclidean algorithm/CommonPrimeDivisors.cs">Solution</a></td>
+        <td><a href=".NET/12_Euclidean Algorithm/CommonPrimeDivisors.md">Problem Statement</a></td>
+        <td><a href=".NET/12_Euclidean Algorithm/CommonPrimeDivisors.cs">Solution</a></td>
     </tr>
-</table>
-
----
-
-<table>
     <tr>
         <td colspan="3"><h3>Lesson 13 - Fibonacci numbers</h3></td>
     </tr>
@@ -271,11 +210,6 @@
         <td><a href=".NET/13_Fibonacci Numbers/Ladder.md">Problem Statement</a></td>
         <td><a href=".NET/13_Fibonacci Numbers/Ladder.cs">Solution</a></td>
     </tr>
-</table>
-
----
-
-<table>
     <tr>
         <td colspan="3"><h3>Lesson 14 - Binary search algorithm</h3></td>
     </tr>
@@ -289,11 +223,6 @@
         <td><a href=".NET/14_Binary Search Algorithm/NailingPlanks.md">Problem Statement</a></td>
         <td><a href=".NET/14_Binary Search Algorithm/NailingPlanks.cs">Solution</a></td>
     </tr>
-</table>
-
----
-
-<table>
     <tr>
         <td colspan="3"><h3>Lesson 15 - Caterpillar method</h3></td>
     </tr>
@@ -317,11 +246,6 @@
         <td><a href=".NET/15_Caterpillar Method/MinAbsSumOfTwo.md">Problem Statement</a></td>
         <td><a href=".NET/15_Caterpillar Method/MinAbsSumOfTwo.cs">Solution</a></td>
     </tr>
-</table>
-
----
-
-<table>
     <tr>
         <td colspan="3"><h3>Lesson 16 - Greedy algorithms</h3></td>
     </tr>
@@ -335,11 +259,6 @@
         <td><a href=".NET/16_Greedy Algorithms/TieRopes.md">Problem Statement</a></td>
         <td><a href=".NET/16_Greedy Algorithms/TieRopes.cs">Solution</a></td>
     </tr>
-</table>
-
----
-
-<table>
     <tr>
         <td colspan="3"><h3>Lesson 17 - Dynamic programming</h3></td>
     </tr>
