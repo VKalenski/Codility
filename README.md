@@ -6,6 +6,7 @@
     </tr>
     <tr>
         <td>BinaryGap</td>
+        <td><a href=".NET/01_Iterations/BinaryGap.md">1. </a></td>
         <td><a href=".NET/01_Iterations/BinaryGap.md">Problem Statement</a></td>
         <td><a href=".NET/01_Iterations/BinaryGap.cs">Solution</a></td>
     </tr>
