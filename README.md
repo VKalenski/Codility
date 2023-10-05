@@ -5,8 +5,8 @@
         <td colspan="3"><h3>Lesson 1 - Iterations</h3></td>
     </tr>
     <tr>
+        <td>1</td>
         <td>BinaryGap</td>
-        <td><a href=".NET/01_Iterations/BinaryGap.md">1. </a></td>
         <td><a href=".NET/01_Iterations/BinaryGap.md">Problem Statement</a></td>
         <td><a href=".NET/01_Iterations/BinaryGap.cs">Solution</a></td>
     </tr>
